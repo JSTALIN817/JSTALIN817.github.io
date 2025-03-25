@@ -1,10 +1,10 @@
 {
-  "id": "did:web:JSTALIN817.github.io:did-web-demo",
+  "id": "did:web:jstalin817.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:JSTALIN817.github.io:did-web-demo#a90aee115e21146fcbff5909272661e75075f06304f2acb3641d3618f7c71a10",
+      "id": "did:web:jstalin817.github.io#a90aee115e21146fcbff5909272661e75075f06304f2acb3641d3618f7c71a10",
       "type": "JsonWebKey2020",
-      "controller": "did:web:JSTALIN817.github.io:did-web-demo",
+      "controller": "did:web:jstalin817.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-384",
